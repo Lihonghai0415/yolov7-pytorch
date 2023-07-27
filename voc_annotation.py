@@ -8,7 +8,7 @@ from utils.utils import get_classes
 
 #--------------------------------------------------------------------------------------------------------------------------------#
 #   annotation_mode用于指定该文件运行时计算的内容
-#   annotation_mode为0代表整个标签处理过程，包括获得VOCdevkit/VOC2007/ImageSets里面的txt以及训练用的2007_train.txt、2007_val.txt
+#   annotation_mode为0代表整个标签处理过程，包括获得VOCdevkit/VOC2007/ImageSets里面的txt以及训练用的2007_train.txt、2007_val_0727.txt
 #   annotation_mode为1代表获得VOCdevkit/VOC2007/ImageSets里面的txt
 #   annotation_mode为2代表获得训练用的2007_train.txt、2007_val.txt
 #--------------------------------------------------------------------------------------------------------------------------------#
@@ -20,7 +20,8 @@ annotation_mode     = 0
 #   那么就是因为classes没有设定正确
 #   仅在annotation_mode为0和2的时候有效
 #-------------------------------------------------------------------#
-classes_path        = 'model_data/voc_classes.txt'
+# classes_path        = 'model_data/voc_classes.txt'
+classes_path        = 'model_data/cls_classes.txt'
 #--------------------------------------------------------------------------------------------------------------------------------#
 #   trainval_percent用于指定(训练集+验证集)与测试集的比例，默认情况下 (训练集+验证集):测试集 = 9:1
 #   train_percent用于指定(训练集+验证集)中训练集与验证集的比例，默认情况下 训练集:验证集 = 9:1

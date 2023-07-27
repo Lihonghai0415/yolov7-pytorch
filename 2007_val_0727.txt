@@ -1,0 +1,1936 @@
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000032.jpg 104,78,375,183,0 133,88,197,123,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000039.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000043.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000078.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000088.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000104.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000141.jpg 25,53,418,399,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000164.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000167.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000169.jpg 23,28,480,284,6 439,23,500,178,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000185.jpg 280,290,346,390,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000194.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000195.jpg 6,15,482,373,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000208.jpg 330,223,500,375,8 117,114,180,219,8 59,122,131,255,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000210.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000223.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000230.jpg 162,167,397,357,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000244.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000265.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000273.jpg 235,149,304,184,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000298.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000311.jpg 47,42,433,354,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000312.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000315.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000319.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000324.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000332.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000334.jpg 37,110,273,178,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000348.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000349.jpg 321,126,479,363,8 284,76,360,144,8 100,91,206,298,8 167,161,326,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000363.jpg 59,15,220,239,2 161,122,500,333,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000373.jpg 19,343,319,453,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000374.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000391.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000409.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000430.jpg 6,1,500,326,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000432.jpg 220,202,275,239,9 316,203,376,239,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000458.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000469.jpg 16,28,454,315,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000475.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000483.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000487.jpg 343,248,482,376,8 35,253,182,376,8 181,176,253,336,8 259,152,302,229,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000491.jpg 2,2,459,334,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000498.jpg 6,5,176,203,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000499.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000507.jpg 1,135,500,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000528.jpg 124,68,319,310,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000531.jpg 369,163,429,333,4 229,178,281,286,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000536.jpg 11,90,481,330,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000542.jpg 1,1,497,361,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000554.jpg 275,67,368,101,6 316,77,436,117,6 266,95,397,142,6 91,73,179,111,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000560.jpg 56,328,204,390,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000562.jpg 184,188,259,307,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000575.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000623.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000632.jpg 61,167,178,335,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000633.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000635.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000644.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000654.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000660.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000667.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000716.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000724.jpg 62,71,500,328,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000727.jpg 89,323,273,436,5 272,369,323,388,6 2,380,89,435,6 113,138,160,164,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000741.jpg 28,84,287,314,7 76,41,418,374,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000749.jpg 244,61,452,374,8 56,104,369,375,8 1,104,203,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000763.jpg 20,116,484,212,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000770.jpg 125,167,431,375,9 1,131,42,266,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000786.jpg 84,95,292,289,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000807.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000815.jpg 286,143,481,224,0 10,104,322,236,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000818.jpg 1,181,33,204,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000823.jpg 49,160,343,265,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000827.jpg 214,153,250,199,9 250,160,310,202,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000837.jpg 261,65,365,159,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000839.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000864.jpg 4,81,486,242,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000867.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000872.jpg 2,15,393,287,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000883.jpg 68,94,305,277,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000885.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000887.jpg 25,49,473,247,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000890.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000896.jpg 2,189,256,294,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000906.jpg 61,179,450,350,6 2,3,231,300,3 23,1,383,216,3 300,2,488,175,3 423,162,500,259,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000911.jpg 1,147,110,319,6 78,47,383,288,5 387,208,436,279,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000929.jpg 261,64,295,201,4 253,23,276,95,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000936.jpg 299,10,347,63,0 314,105,364,156,0 334,149,378,200,0 261,208,305,254,0 155,277,201,329,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000954.jpg 1,130,399,322,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000958.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000975.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000976.jpg 2,1,500,430,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/000992.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001005.jpg 38,149,268,258,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001011.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001017.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001042.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001046.jpg 15,117,430,243,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001068.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001075.jpg 58,147,112,284,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001077.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001081.jpg 147,176,283,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001116.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001117.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001120.jpg 9,124,44,152,9 119,159,169,193,9 217,186,281,234,9 284,193,352,241,9 409,210,468,259,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001125.jpg 266,174,434,272,6 210,171,312,227,6 1,176,223,333,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001135.jpg 147,82,393,258,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001154.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001185.jpg 197,199,289,323,7 452,131,500,253,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001196.jpg 89,118,286,408,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001212.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001238.jpg 171,227,252,358,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001255.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001265.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001268.jpg 29,90,323,245,6 265,62,489,178,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001272.jpg 182,87,242,202,4 181,154,300,264,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001276.jpg 118,163,200,223,8 141,175,238,331,8 12,220,184,374,8 309,160,397,288,8 392,176,476,308,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001285.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001304.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001310.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001376.jpg 383,241,426,274,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001413.jpg 373,163,482,256,2 189,130,234,174,2 256,181,323,273,2 134,211,210,290,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001414.jpg 40,64,458,313,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001429.jpg 420,98,473,226,4 453,71,498,184,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001433.jpg 15,87,479,254,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001445.jpg 114,105,455,267,5 80,170,116,206,6 1,204,220,338,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001458.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001470.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001474.jpg 104,84,467,141,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001478.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001490.jpg 296,111,326,171,4 276,107,303,166,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001500.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001519.jpg 33,246,132,348,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001522.jpg 309,46,377,241,4 217,100,272,247,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001534.jpg 166,199,241,281,8 113,184,167,242,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001539.jpg 102,167,357,350,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001540.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001544.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001556.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001564.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001583.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001586.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001598.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001599.jpg 250,146,323,232,8 163,149,239,239,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001613.jpg 63,61,397,314,6 73,80,441,333,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001614.jpg 158,43,436,372,9 100,231,154,319,9 416,100,500,364,9 367,252,440,315,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001619.jpg 176,1,499,157,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001624.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001639.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001641.jpg 174,64,397,375,9 362,36,454,146,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001642.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001670.jpg 209,49,339,181,8 306,33,375,128,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001689.jpg 60,238,158,367,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001712.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001724.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001731.jpg 222,86,309,121,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001738.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001777.jpg 395,46,443,198,4 398,114,434,219,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001799.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001806.jpg 274,192,328,361,9 114,266,180,376,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001812.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001816.jpg 1,36,369,250,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001838.jpg 39,43,473,330,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001841.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001850.jpg 108,125,500,271,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001866.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001885.jpg 146,56,500,189,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001907.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001910.jpg 4,3,438,332,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001936.jpg 84,185,134,208,0 202,153,255,178,0 249,189,298,211,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001951.jpg 5,27,486,299,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001958.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001975.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001982.jpg 85,50,379,348,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001986.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/001993.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002005.jpg 348,128,486,213,9 95,95,258,324,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002022.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002024.jpg 337,124,500,273,5 104,88,343,301,5 1,109,71,297,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002027.jpg 270,278,357,295,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002039.jpg 246,87,284,175,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002046.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002047.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002076.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002081.jpg 1,182,87,281,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002088.jpg 1,30,470,332,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002089.jpg 163,140,310,182,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002095.jpg 5,21,289,380,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002106.jpg 1,2,359,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002117.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002156.jpg 114,213,223,370,8 226,206,323,349,8 394,193,465,278,8 15,200,118,355,8 468,191,500,238,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002159.jpg 423,52,500,266,8 5,73,89,214,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002162.jpg 88,56,454,297,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002188.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002190.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002196.jpg 4,2,375,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002210.jpg 2,92,368,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002212.jpg 42,72,459,247,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002213.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002230.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002239.jpg 344,176,432,306,1 297,181,349,266,1 116,144,189,270,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002241.jpg 4,172,150,277,6 139,189,218,272,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002257.jpg 222,220,299,347,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002269.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002280.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002292.jpg 83,225,310,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002325.jpg 245,244,462,377,1 1,274,258,377,1 125,243,274,377,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002331.jpg 2,56,53,103,6 70,52,120,101,6 224,57,292,99,6 292,54,370,97,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002353.jpg 34,247,177,375,8 202,233,254,327,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002370.jpg 355,174,391,213,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002416.jpg 168,150,488,316,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002419.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002420.jpg 81,48,475,251,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002426.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002434.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002440.jpg 49,54,282,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002455.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002467.jpg 33,144,455,258,0 100,218,195,256,0 235,222,385,261,0 341,225,454,261,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002483.jpg 238,81,277,137,7 33,250,215,335,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002512.jpg 1,188,299,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002513.jpg 253,243,269,259,0 247,227,263,243,0 225,206,241,223,0 219,191,234,206,0 207,219,223,238,0 212,238,228,256,0 188,229,203,250,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002518.jpg 147,198,181,298,4 182,201,216,292,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002544.jpg 81,119,422,277,6 165,72,259,114,6 246,75,312,111,6 300,75,364,107,6 286,61,362,97,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002552.jpg 102,241,170,348,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002562.jpg 29,76,500,308,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002567.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002580.jpg 134,25,166,143,3 54,215,324,330,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002603.jpg 185,99,304,245,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002604.jpg 235,128,492,317,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002610.jpg 1,241,213,344,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002615.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002632.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002638.jpg 212,174,346,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002644.jpg 148,197,267,346,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002660.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002672.jpg 52,72,419,394,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002693.jpg 144,133,397,322,6 1,124,185,209,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002694.jpg 10,48,459,284,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002703.jpg 102,176,188,234,0 181,204,251,235,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002711.jpg 1,248,64,375,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002719.jpg 53,100,468,238,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002724.jpg 2,224,142,375,8 183,233,352,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002729.jpg 29,32,480,333,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002755.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002766.jpg 167,116,323,238,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002773.jpg 460,216,475,276,4 475,216,493,273,4 10,14,36,105,4 75,50,97,120,4 39,123,65,206,4 61,128,86,205,4 115,136,135,202,4 17,232,43,317,4 86,224,107,298,4 101,220,115,256,4 68,317,93,375,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002776.jpg 429,175,500,204,5 239,218,302,250,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002783.jpg 281,295,338,354,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002796.jpg 130,227,306,364,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002807.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002812.jpg 236,198,366,260,6 13,142,227,261,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002840.jpg 7,109,421,284,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002843.jpg 272,103,352,131,0 2,103,500,374,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002856.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002867.jpg 167,1,374,456,5 1,13,129,389,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002869.jpg 21,94,489,226,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002878.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002884.jpg 153,44,358,230,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002891.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002911.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002914.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002921.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002941.jpg 412,56,439,158,4 443,71,493,186,4 383,68,436,184,4 339,59,386,170,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002974.jpg 78,223,151,338,8 24,208,90,314,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002977.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002987.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/002994.jpg 164,280,309,338,6 67,282,147,328,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003027.jpg 131,93,345,206,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003031.jpg 6,89,493,315,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003046.jpg 2,58,489,331,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003049.jpg 249,241,361,375,8 171,251,304,375,8 55,227,160,354,8 43,220,125,301,8 2,199,63,269,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003082.jpg 197,186,284,284,2 143,233,304,368,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003083.jpg 344,455,375,480,6 270,426,375,480,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003085.jpg 174,81,327,266,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003093.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003104.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003114.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003119.jpg 1,3,482,400,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003123.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003126.jpg 132,156,280,248,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003134.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003138.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003139.jpg 3,89,68,262,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003146.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003149.jpg 72,36,153,288,4 178,16,308,74,4 144,46,296,225,4 245,49,387,148,4 131,31,464,331,4 140,224,395,375,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003159.jpg 266,218,287,286,4 248,200,269,268,4 188,294,219,360,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003161.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003169.jpg 54,113,474,332,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003173.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003217.jpg 68,90,492,275,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003222.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003225.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003230.jpg 165,135,391,233,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003238.jpg 59,77,408,397,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003244.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003258.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003294.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003310.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003322.jpg 446,235,500,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003327.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003337.jpg 71,146,365,210,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003345.jpg 372,209,440,328,8 302,226,373,351,8 22,203,85,327,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003354.jpg 93,75,256,223,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003356.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003374.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003378.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003434.jpg 17,169,56,196,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003435.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003450.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003451.jpg 212,167,260,246,8 7,217,25,260,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003455.jpg 1,40,452,333,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003467.jpg 1,82,451,333,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003468.jpg 346,258,384,352,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003469.jpg 139,145,362,372,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003491.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003496.jpg 384,199,415,269,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003499.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003504.jpg 2,41,499,373,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003512.jpg 161,98,394,210,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003515.jpg 66,61,494,339,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003535.jpg 10,52,305,264,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003562.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003567.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003609.jpg 270,104,360,213,8 6,135,186,270,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003621.jpg 199,153,328,271,1 441,62,492,120,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003642.jpg 26,58,461,226,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003656.jpg 34,37,91,84,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003675.jpg 185,133,271,227,2 144,110,242,163,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003697.jpg 213,195,336,375,4 91,189,217,342,4 58,132,219,375,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003699.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003704.jpg 220,62,458,347,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003708.jpg 239,153,365,468,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003715.jpg 44,62,476,355,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003740.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003758.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003779.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003781.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003791.jpg 197,247,321,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003799.jpg 1,1,167,224,3 24,3,355,500,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003805.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003813.jpg 1,8,305,333,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003816.jpg 1,22,424,245,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003819.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003842.jpg 44,15,201,497,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003853.jpg 292,176,358,245,8 348,129,388,180,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003854.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003876.jpg 93,98,174,144,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003880.jpg 199,27,445,304,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003892.jpg 1,1,337,131,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003924.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003926.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003927.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003934.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003946.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003950.jpg 150,187,203,282,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003985.jpg 250,136,308,257,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003992.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/003997.jpg 171,110,447,262,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004018.jpg 2,111,348,333,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004019.jpg 394,316,474,360,6 84,323,160,358,6 20,321,85,353,6 474,324,500,355,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004029.jpg 443,52,488,129,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004032.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004039.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004043.jpg 160,111,375,266,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004067.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004069.jpg 153,106,298,375,2 241,61,387,309,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004082.jpg 170,74,261,331,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004083.jpg 330,92,500,375,2 29,57,466,375,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004085.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004091.jpg 1,143,197,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004098.jpg 263,167,349,333,8 386,174,462,324,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004105.jpg 93,271,164,375,8 2,277,93,375,8 205,271,296,375,8 164,304,281,375,8 316,271,401,368,8 341,312,491,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004116.jpg 157,56,311,288,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004132.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004148.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004153.jpg 8,41,496,240,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004201.jpg 12,190,394,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004203.jpg 163,37,284,151,6 270,62,320,115,6 1,2,203,385,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004219.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004224.jpg 47,88,466,299,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004229.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004237.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004247.jpg 111,199,219,259,2 186,174,228,248,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004257.jpg 1,220,110,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004291.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004292.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004296.jpg 188,103,220,171,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004315.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004329.jpg 440,176,485,212,6 350,133,439,228,6 198,181,295,258,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004339.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004369.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004377.jpg 200,175,220,201,0 201,207,217,228,0 193,260,211,283,0 186,285,202,310,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004408.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004416.jpg 90,124,378,308,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004425.jpg 70,28,291,394,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004426.jpg 36,14,428,319,6 24,15,140,75,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004437.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004439.jpg 326,250,438,307,6 197,256,301,298,6 131,258,179,285,6 435,255,500,283,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004449.jpg 70,216,203,372,8 39,178,117,322,8 75,113,128,193,8 100,101,142,172,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004452.jpg 411,251,454,302,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004454.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004455.jpg 164,116,256,206,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004461.jpg 11,36,482,330,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004469.jpg 184,320,216,375,4 153,319,189,375,4 213,192,236,256,4 196,195,220,255,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004471.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004477.jpg 2,184,284,255,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004496.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004512.jpg 325,119,389,196,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004547.jpg 262,220,372,372,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004571.jpg 224,120,387,243,9 56,42,168,236,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004579.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004597.jpg 83,181,120,255,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004607.jpg 348,117,497,303,8 1,128,132,295,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004642.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004644.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004645.jpg 5,121,496,250,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004648.jpg 146,166,425,216,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004655.jpg 441,181,493,244,8 61,211,142,273,8 169,199,240,262,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004669.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004729.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004732.jpg 60,140,375,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004750.jpg 302,1,500,110,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004760.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004767.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004779.jpg 114,203,284,291,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004804.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004810.jpg 8,238,186,340,6 180,226,254,290,6 263,202,312,245,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004811.jpg 84,202,375,386,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004815.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004818.jpg 52,117,245,400,8 302,104,426,308,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004831.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004833.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004843.jpg 103,117,471,228,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004854.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004861.jpg 113,53,320,494,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004867.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004876.jpg 26,91,61,208,2 152,151,177,237,2 404,141,443,194,2 202,149,224,203,2 313,119,338,184,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004908.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004935.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004957.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004990.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/004992.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005002.jpg 152,118,263,500,4 119,51,183,255,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005030.jpg 25,59,478,291,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005052.jpg 44,243,82,346,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005063.jpg 114,360,192,473,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005088.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005093.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005107.jpg 54,195,273,337,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005114.jpg 451,132,500,219,9 56,136,132,257,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005119.jpg 125,141,466,374,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005153.jpg 44,147,94,217,8 104,216,288,375,8 94,177,234,358,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005154.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005155.jpg 3,3,498,374,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005164.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005168.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005172.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005185.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005190.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005205.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005208.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005210.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005230.jpg 115,175,214,285,1 288,186,373,284,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005239.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005245.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005246.jpg 84,48,493,387,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005271.jpg 103,73,375,296,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005275.jpg 32,131,478,331,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005285.jpg 90,118,372,342,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005299.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005312.jpg 111,53,364,366,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005327.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005330.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005332.jpg 224,151,262,194,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005333.jpg 1,201,151,386,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005353.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005360.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005365.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005367.jpg 112,51,217,313,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005369.jpg 310,220,387,255,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005370.jpg 260,156,351,178,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005374.jpg 187,2,500,347,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005387.jpg 45,172,415,305,5 2,254,45,269,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005389.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005400.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005402.jpg 61,127,309,287,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005408.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005411.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005415.jpg 413,234,465,293,7 331,244,415,294,7 358,228,428,280,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005421.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005443.jpg 11,259,319,486,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005463.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005467.jpg 345,107,408,303,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005472.jpg 129,165,360,297,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005473.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005497.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005553.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005577.jpg 1,138,479,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005592.jpg 122,135,277,207,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005618.jpg 216,155,270,255,8 266,145,316,238,8 187,146,225,231,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005635.jpg 1,107,144,375,4 122,185,199,375,4 185,195,311,375,4 105,81,206,220,4 201,60,303,274,4 284,58,362,269,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005646.jpg 1,165,166,250,7 193,165,331,234,7 361,181,500,238,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005674.jpg 10,63,288,476,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005676.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005677.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005698.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005714.jpg 122,223,377,295,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005728.jpg 280,142,406,248,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005736.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005763.jpg 66,130,299,258,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005769.jpg 68,162,497,343,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005785.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005792.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005796.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005799.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005807.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005808.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005815.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005856.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005869.jpg 51,239,112,291,6 1,246,29,292,6 455,246,500,280,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005875.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005877.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005886.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005929.jpg 21,123,490,336,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005940.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005950.jpg 229,114,440,218,3 92,89,288,213,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005951.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005966.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005969.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005979.jpg 26,9,487,331,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005982.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/005985.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006012.jpg 287,186,317,210,2 312,169,337,203,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006020.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006029.jpg 261,39,377,124,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006045.jpg 1,147,149,343,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006049.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006051.jpg 158,159,220,183,0 249,188,309,210,0 320,199,381,225,0 304,221,366,242,0 381,227,442,250,0 431,258,493,283,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006058.jpg 1,107,499,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006064.jpg 66,1,500,313,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006081.jpg 207,201,268,303,8 96,208,152,290,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006087.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006089.jpg 152,130,298,255,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006099.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006101.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006102.jpg 157,148,317,223,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006106.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006113.jpg 406,149,500,302,5 162,166,211,243,6 373,240,419,305,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006114.jpg 205,235,375,495,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006130.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006141.jpg 238,28,336,388,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006148.jpg 100,231,208,413,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006155.jpg 393,174,496,219,6 341,173,428,212,6 291,169,368,205,6 245,169,322,206,6 178,170,250,198,6 143,169,210,195,6 118,166,169,192,6 98,168,164,186,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006166.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006173.jpg 413,265,459,299,9 354,263,399,301,9 299,225,352,294,9 210,233,284,309,9 153,228,203,305,9 93,234,193,309,9 105,277,148,314,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006174.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006189.jpg 133,92,186,290,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006203.jpg 46,366,275,458,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006206.jpg 196,245,345,354,1 171,238,302,350,1 325,240,500,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006208.jpg 2,106,499,266,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006213.jpg 42,240,355,444,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006216.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006225.jpg 86,82,463,292,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006235.jpg 351,251,481,308,6 222,251,362,308,6 131,257,246,307,6 41,259,157,305,6 10,239,91,300,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006239.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006245.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006248.jpg 63,143,195,182,4 3,267,33,329,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006251.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006255.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006266.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006290.jpg 466,191,500,270,6 21,67,471,308,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006293.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006312.jpg 341,92,477,237,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006321.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006326.jpg 333,73,500,181,6 21,76,392,320,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006327.jpg 44,61,237,342,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006342.jpg 62,48,321,174,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006356.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006370.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006372.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006376.jpg 35,17,456,355,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006380.jpg 248,165,267,200,4 256,124,277,178,4 278,114,294,167,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006383.jpg 43,22,481,158,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006391.jpg 135,135,359,388,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006412.jpg 12,49,496,350,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006434.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006440.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006464.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006467.jpg 16,40,481,342,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006486.jpg 65,259,98,346,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006514.jpg 133,206,258,453,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006517.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006521.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006548.jpg 174,210,474,371,2 299,139,356,221,2 188,116,256,199,2 144,140,173,188,2 1,132,93,250,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006553.jpg 160,219,351,486,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006563.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006565.jpg 1,134,401,373,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006567.jpg 184,163,272,190,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006570.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006589.jpg 222,133,359,224,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006607.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006612.jpg 74,201,218,314,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006617.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006630.jpg 263,221,500,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006649.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006682.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006693.jpg 65,96,288,220,6 302,82,500,184,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006697.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006708.jpg 164,151,206,182,9 305,181,380,286,9 398,181,452,281,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006711.jpg 72,59,326,179,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006714.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006732.jpg 358,2,484,90,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006747.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006770.jpg 225,157,387,294,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006786.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006802.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006810.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006828.jpg 61,30,219,360,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006845.jpg 171,257,246,331,8 257,222,298,265,8 323,224,369,272,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006856.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006859.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006861.jpg 1,214,379,335,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006868.jpg 79,185,341,372,6 52,193,168,259,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006878.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006884.jpg 3,2,242,178,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006898.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006925.jpg 12,177,109,230,6 275,169,396,235,6 348,164,500,368,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006939.jpg 115,78,132,148,4 130,73,150,149,4 147,71,171,149,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006943.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006967.jpg 158,158,247,312,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006985.jpg 201,146,326,217,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006994.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/006998.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007006.jpg 145,247,294,374,8 278,233,390,375,8 368,219,494,371,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007011.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007037.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007040.jpg 156,32,444,153,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007068.jpg 3,157,357,342,6 2,110,357,186,6 34,74,357,133,6 63,46,338,118,6 94,24,321,75,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007070.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007093.jpg 70,184,235,375,8 284,179,445,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007097.jpg 31,113,422,216,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007107.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007121.jpg 252,376,375,500,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007122.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007132.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007139.jpg 201,25,413,194,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007159.jpg 435,151,500,210,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007166.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007181.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007200.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007205.jpg 130,149,201,220,6 10,188,141,325,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007232.jpg 24,260,82,366,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007264.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007267.jpg 367,158,399,177,6 96,86,475,187,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007280.jpg 203,103,345,177,0 142,121,281,195,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007283.jpg 22,124,243,255,1 243,117,480,256,1 236,50,304,76,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007285.jpg 2,43,375,500,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007311.jpg 200,169,348,362,8 322,163,381,244,8 3,215,50,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007314.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007345.jpg 80,157,139,267,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007346.jpg 1,1,334,256,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007355.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007373.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007379.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007385.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007398.jpg 1,1,499,265,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007411.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007431.jpg 92,333,170,372,2 93,374,169,410,2 289,369,365,408,2 291,325,367,368,2 357,153,412,181,2 350,108,388,145,2 397,50,452,84,2 377,32,407,81,2 240,83,291,113,2 61,56,122,96,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007436.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007441.jpg 81,44,420,356,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007463.jpg 219,3,375,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007475.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007477.jpg 259,30,421,154,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007488.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007501.jpg 2,4,500,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007507.jpg 2,186,54,233,6 59,190,160,236,6 160,187,208,223,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007510.jpg 53,44,443,365,5 2,159,55,344,5 373,276,500,359,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007518.jpg 456,234,496,294,6 196,234,305,293,6 116,231,225,284,6 49,233,159,280,6 4,221,114,271,6 309,230,353,257,6 262,222,323,253,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007522.jpg 3,2,500,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007564.jpg 294,211,357,310,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007567.jpg 292,119,403,298,8 419,189,500,375,8 121,118,196,258,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007570.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007580.jpg 373,278,408,290,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007582.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007592.jpg 8,121,323,320,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007593.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007598.jpg 392,197,413,244,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007625.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007626.jpg 34,110,473,266,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007640.jpg 78,121,500,307,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007658.jpg 148,170,323,375,1 281,174,462,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007659.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007680.jpg 55,70,194,124,2 158,18,271,199,2 226,43,315,110,2 271,174,332,375,2 21,164,128,375,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007699.jpg 2,50,500,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007700.jpg 202,11,280,213,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007720.jpg 38,62,388,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007723.jpg 55,93,430,287,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007752.jpg 354,168,409,245,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007756.jpg 333,269,440,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007757.jpg 15,40,483,252,6 3,11,210,92,6 391,26,479,64,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007763.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007766.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007793.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007808.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007814.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007823.jpg 50,82,358,368,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007832.jpg 81,165,241,367,8 371,148,488,291,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007838.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007854.jpg 18,323,293,485,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007870.jpg 1,162,419,261,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007887.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007918.jpg 1,267,72,360,1 398,231,445,272,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007920.jpg 1,274,119,415,5 115,329,234,409,5 114,298,278,397,5 269,316,358,389,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007929.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007931.jpg 52,46,458,325,6 414,92,500,251,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007933.jpg 8,42,492,351,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007940.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007953.jpg 144,355,208,395,1 256,274,321,309,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007961.jpg 320,150,441,199,6 48,159,135,218,6 193,199,500,333,6 396,177,500,268,6 87,168,179,252,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007963.jpg 457,230,500,248,6 1,322,80,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007969.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007983.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/007987.jpg 312,312,359,374,4 119,260,145,315,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008027.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008036.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008044.jpg 365,173,495,207,5 450,186,500,237,6 240,204,392,247,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008049.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008063.jpg 325,97,426,297,8 53,105,157,301,8 208,107,294,286,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008074.jpg 61,254,310,456,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008091.jpg 2,3,322,319,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008104.jpg 1,76,458,282,0 135,204,192,222,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008111.jpg 17,22,261,295,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008114.jpg 380,174,469,214,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008138.jpg 47,44,390,244,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008139.jpg 13,342,69,411,4 475,152,500,224,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008140.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008152.jpg 73,92,449,321,6 2,92,71,190,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008160.jpg 22,69,377,366,6 203,1,456,139,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008172.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008176.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008184.jpg 108,366,208,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008196.jpg 206,103,426,227,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008202.jpg 191,111,458,372,9 438,90,500,195,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008209.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008217.jpg 44,146,337,323,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008219.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008222.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008225.jpg 56,128,190,221,6 128,189,249,247,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008240.jpg 100,39,287,310,7 281,113,495,321,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008247.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008249.jpg 32,98,465,212,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008261.jpg 56,3,238,265,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008279.jpg 152,201,329,366,6 53,212,118,257,6 24,211,60,243,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008280.jpg 2,90,500,281,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008297.jpg 2,2,500,375,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008310.jpg 2,2,500,327,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008349.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008352.jpg 66,36,469,231,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008356.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008357.jpg 65,71,420,214,5 421,156,456,177,6 36,150,65,180,6 1,126,66,177,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008380.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008381.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008394.jpg 38,50,334,441,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008397.jpg 199,354,294,375,6 58,290,294,375,5 6,303,68,329,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008400.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008401.jpg 253,93,400,247,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008414.jpg 68,75,472,336,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008457.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008463.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008467.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008497.jpg 70,1,488,294,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008525.jpg 256,253,361,449,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008532.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008535.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008547.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008552.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008564.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008571.jpg 53,1,288,177,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008575.jpg 19,2,333,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008580.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008589.jpg 179,89,358,196,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008596.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008623.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008625.jpg 44,63,500,244,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008644.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008647.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008657.jpg 2,104,500,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008660.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008667.jpg 15,22,433,328,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008674.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008691.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008709.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008711.jpg 21,77,446,317,6 210,8,500,166,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008718.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008736.jpg 346,83,500,275,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008751.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008758.jpg 101,140,288,292,9 168,106,243,175,9 23,138,127,220,9 51,80,106,114,9 192,60,240,89,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008764.jpg 100,38,340,325,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008769.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008773.jpg 114,129,499,306,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008776.jpg 160,38,296,314,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008790.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008794.jpg 81,96,500,312,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008814.jpg 369,172,436,266,8 189,214,277,332,8 102,191,181,321,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008841.jpg 325,55,341,89,4 299,54,313,89,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008849.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008853.jpg 109,200,329,325,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008865.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008887.jpg 136,225,288,372,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008892.jpg 43,318,160,375,6 243,318,283,349,6 281,315,334,350,6 312,311,408,361,6 1,303,65,375,6 372,251,500,360,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008912.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008913.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008930.jpg 2,59,375,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008955.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008966.jpg 128,27,500,303,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008968.jpg 86,50,443,332,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/008969.jpg 43,110,468,375,6 418,121,500,183,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009011.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009032.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009036.jpg 287,263,474,405,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009041.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009046.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009048.jpg 119,308,234,404,7 180,90,313,214,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009063.jpg 48,149,181,189,0 260,124,392,176,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009078.jpg 114,248,391,338,6 201,225,254,247,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009082.jpg 1,96,291,345,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009088.jpg 203,3,459,375,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009105.jpg 34,40,500,315,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009124.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009131.jpg 316,75,366,219,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009137.jpg 213,147,266,169,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009150.jpg 78,365,140,433,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009159.jpg 101,264,237,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009161.jpg 19,179,423,317,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009165.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009174.jpg 6,54,500,321,5 266,252,490,375,6 40,252,206,328,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009180.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009197.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009204.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009218.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009222.jpg 36,171,309,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009235.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009241.jpg 135,142,244,174,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009244.jpg 2,2,500,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009251.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009261.jpg 270,311,296,330,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009269.jpg 100,167,404,327,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009271.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009282.jpg 14,74,431,288,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009289.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009293.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009302.jpg 39,131,460,314,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009317.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009333.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009360.jpg 185,121,458,327,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009371.jpg 2,1,497,186,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009382.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009388.jpg 234,265,417,375,8 54,228,73,279,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009391.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009397.jpg 105,188,190,286,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009412.jpg 31,62,101,116,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009420.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009422.jpg 2,2,481,325,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009434.jpg 16,82,482,301,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009437.jpg 2,142,218,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009444.jpg 139,271,219,375,8 298,270,380,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009459.jpg 153,87,358,297,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009522.jpg 29,32,399,347,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009536.jpg 57,61,500,354,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009542.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009548.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009550.jpg 24,320,87,412,8 1,327,44,419,8 217,298,255,366,8 240,314,297,395,8 314,362,375,496,8 280,351,352,458,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009580.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009588.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009589.jpg 12,116,378,322,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009590.jpg 18,85,492,299,6 8,149,93,217,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009591.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009627.jpg 29,14,497,332,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009628.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009631.jpg 400,165,475,252,8 36,176,104,260,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009634.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009658.jpg 31,85,250,302,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009671.jpg 45,195,203,261,6 253,206,444,284,6 192,202,333,255,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009694.jpg 333,306,420,351,6 266,306,348,350,6 175,305,272,348,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009699.jpg 40,49,438,284,6 404,51,500,144,6 1,44,101,151,6 262,39,411,101,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009705.jpg 239,1,397,46,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009761.jpg 43,24,375,476,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009774.jpg 27,4,478,390,6 373,51,458,117,6 453,65,500,116,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009790.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009792.jpg 24,151,148,358,8 151,199,374,343,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009793.jpg 58,80,442,352,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009803.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009813.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009835.jpg 121,130,397,229,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009838.jpg 5,97,486,245,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009859.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009894.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009909.jpg 37,42,355,339,9 307,170,375,239,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009940.jpg 218,114,387,375,2 135,133,365,375,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/009950.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000009.jpg 217,161,294,221,9 465,167,500,218,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000028.jpg 158,199,231,240,6 47,202,94,238,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000064.jpg 1,152,375,461,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000067.jpg 94,224,255,445,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000070.jpg 367,244,447,353,8 255,247,371,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000105.jpg 215,182,377,240,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000109.jpg 41,95,444,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000149.jpg 1,118,115,265,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000174.jpg 438,265,500,348,6 180,271,246,295,6 88,263,162,294,6 63,269,123,306,6 1,256,68,309,6 1,275,40,316,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000176.jpg 5,110,500,346,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000182.jpg 234,326,336,429,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000183.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000223.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000261.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000262.jpg 23,143,430,330,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000274.jpg 46,257,128,333,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000313.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000382.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000392.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000418.jpg 421,264,490,375,8 307,235,385,354,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000424.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000442.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000448.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000492.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000522.jpg 299,99,375,197,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000568.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000676.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000724.jpg 1,1,474,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000731.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000742.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000777.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000783.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000811.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000815.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000841.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000854.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000944.jpg 37,61,460,277,6 106,87,236,131,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000953.jpg 342,1,363,36,4 122,1,233,41,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000964.jpg 1,144,37,196,9 364,194,435,259,9 240,170,329,230,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_000981.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001036.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001060.jpg 13,163,64,258,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001066.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001090.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001122.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001136.jpg 72,140,175,225,3 209,139,323,223,3 321,133,452,224,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001167.jpg 50,53,74,71,3 1,150,464,365,3 77,282,351,365,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001171.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001188.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001226.jpg 191,23,500,421,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001227.jpg 1,132,443,375,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001264.jpg 162,156,233,226,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001320.jpg 100,210,180,309,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001325.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001346.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001350.jpg 39,36,468,297,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001367.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001379.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001399.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001460.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001498.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001501.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001516.jpg 49,1,442,333,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001563.jpg 354,120,500,304,8 1,129,78,375,8 1,33,106,204,8 38,101,109,201,8 37,188,115,375,8 194,158,425,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001609.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001626.jpg 20,11,439,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001660.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001699.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001758.jpg 436,198,460,283,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001770.jpg 73,71,361,478,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001773.jpg 59,230,223,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001799.jpg 1,1,238,387,3 130,1,375,263,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001810.jpg 14,1,487,310,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001832.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001871.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001926.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001934.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001947.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001951.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_001957.jpg 104,74,196,120,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002004.jpg 3,11,375,467,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002094.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002117.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002124.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002176.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002181.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002210.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002231.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002240.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002259.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002270.jpg 252,206,319,255,9 232,197,268,217,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002272.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002321.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002322.jpg 120,155,295,297,1 185,95,500,237,6 1,168,162,271,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002335.jpg 101,179,384,262,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002359.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002362.jpg 237,216,277,329,4 456,207,485,290,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002366.jpg 1,55,331,500,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002368.jpg 164,10,496,191,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002369.jpg 42,187,161,491,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002379.jpg 2,241,165,371,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002383.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002384.jpg 40,232,147,375,8 368,224,500,366,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002401.jpg 340,208,390,247,6 241,218,282,255,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002464.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002562.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002589.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002610.jpg 53,168,323,234,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002631.jpg 89,238,246,500,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002647.jpg 102,72,252,272,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002653.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002681.jpg 165,134,328,465,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002682.jpg 154,125,336,419,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002697.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002705.jpg 1,75,500,344,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002750.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002808.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002814.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002826.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002866.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002868.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002873.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002906.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002929.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002948.jpg 9,1,169,333,1 1,1,135,306,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002956.jpg 139,154,167,174,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002965.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002977.jpg 371,225,491,271,6 1,1,494,375,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002984.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_002997.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003005.jpg 23,1,500,279,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003013.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003020.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003023.jpg 78,35,302,335,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003049.jpg 140,203,189,283,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003081.jpg 83,222,227,298,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003090.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003122.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003181.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003191.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003196.jpg 98,62,349,153,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003200.jpg 11,323,83,475,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003205.jpg 109,151,356,314,1 127,53,161,81,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003265.jpg 1,229,107,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003266.jpg 31,51,465,303,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003311.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003333.jpg 290,79,400,174,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003338.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003343.jpg 60,1,500,322,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003360.jpg 153,56,397,258,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003382.jpg 21,32,343,500,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003406.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003443.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003462.jpg 330,70,484,162,2 23,47,164,143,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003475.jpg 21,81,127,104,0 95,107,272,151,0 151,130,492,220,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003485.jpg 172,262,265,329,2 21,252,153,306,2 141,226,221,262,2 42,232,143,264,2 269,198,345,229,2 425,170,470,212,2 345,204,426,238,2 350,222,409,264,2 321,170,361,214,2 222,183,262,236,2 358,177,391,207,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003489.jpg 261,452,324,500,6 127,406,256,493,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003498.jpg 1,280,107,326,6 164,291,222,319,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003526.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003604.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003671.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003675.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003694.jpg 284,144,396,225,2 66,219,211,355,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003719.jpg 230,209,337,298,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003794.jpg 177,169,228,214,6 131,185,162,209,6 237,183,304,208,6 25,184,100,209,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003811.jpg 311,36,500,134,5 225,125,397,196,6 1,83,43,116,6 113,79,188,121,6 108,60,167,89,6 142,22,175,38,6 179,26,218,45,6 244,31,276,48,6 283,45,316,82,6 157,10,187,23,6 172,18,207,34,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003830.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003841.jpg 236,12,470,300,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003956.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_003967.jpg 420,152,500,363,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004003.jpg 377,219,467,331,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004007.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004037.jpg 194,187,223,251,4 1,226,18,306,4 77,219,106,295,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004048.jpg 138,124,318,276,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004071.jpg 32,156,160,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004190.jpg 152,142,309,189,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004224.jpg 189,193,311,242,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004230.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004279.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004280.jpg 17,17,500,342,1 9,26,173,310,8 341,92,449,226,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004290.jpg 44,66,339,427,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004326.jpg 110,134,271,195,6 80,135,190,188,6 38,141,136,183,6 75,126,151,147,6 475,115,500,152,6 231,99,470,213,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004347.jpg 1,14,339,459,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004363.jpg 102,178,344,336,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004365.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004416.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004428.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004476.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004504.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004510.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004525.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004533.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004559.jpg 193,412,305,470,6 286,409,375,485,6 1,340,35,366,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004575.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004590.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004603.jpg 10,154,406,315,1 1,101,104,243,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004607.jpg 137,11,254,421,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004667.jpg 377,165,415,196,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004670.jpg 456,191,500,283,8 383,160,460,254,8 375,139,429,230,8 318,134,373,216,8 264,131,316,210,8 242,125,288,166,8 189,128,239,188,8 88,117,129,164,8 45,116,86,166,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004672.jpg 1,1,500,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004695.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004696.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004732.jpg 52,26,411,333,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004784.jpg 167,137,246,299,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004795.jpg 237,128,258,170,4 103,97,128,167,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004807.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004833.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004841.jpg 192,1,500,333,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004844.jpg 126,178,449,303,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004854.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004874.jpg 1,238,133,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004875.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_004955.jpg 65,142,434,259,6 456,159,500,226,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005064.jpg 158,93,290,258,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005070.jpg 385,66,500,250,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005081.jpg 218,116,335,287,8 315,109,400,263,8 89,96,196,269,8 82,81,176,202,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005094.jpg 110,237,127,298,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005127.jpg 392,260,500,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005132.jpg 90,208,131,238,3 209,203,257,227,3 287,213,335,233,3 327,202,370,226,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005156.jpg 1,186,500,224,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005166.jpg 454,88,488,101,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005178.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005191.jpg 263,177,387,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005234.jpg 20,61,463,364,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005247.jpg 1,71,273,285,7 74,119,374,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005248.jpg 261,167,372,307,8 166,173,262,291,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005270.jpg 22,79,492,303,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005277.jpg 233,173,375,498,5 197,373,219,395,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005282.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005294.jpg 18,65,335,162,6 60,62,113,77,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005303.jpg 154,39,485,345,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005315.jpg 304,70,400,98,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005360.jpg 31,11,461,332,5 289,51,480,263,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005417.jpg 50,266,142,375,8 133,300,220,375,8 227,283,313,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005427.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005433.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005449.jpg 160,117,368,324,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005472.jpg 376,141,489,180,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005485.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005504.jpg 369,89,459,285,3 276,115,346,288,3 24,141,138,342,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005530.jpg 131,223,161,271,3 224,231,243,260,3 256,229,270,251,3 340,217,369,255,3 454,224,486,259,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005548.jpg 148,97,411,257,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005608.jpg 372,194,500,250,8 304,251,416,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005623.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005633.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005638.jpg 45,135,451,298,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005695.jpg 99,46,398,266,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005702.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005714.jpg 43,46,298,218,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005719.jpg 284,164,337,192,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005752.jpg 102,81,145,193,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005757.jpg 269,85,434,284,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005764.jpg 160,178,302,214,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005823.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005834.jpg 1,127,474,261,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005884.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005889.jpg 1,84,463,252,0 435,277,500,317,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005903.jpg 121,117,278,346,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005921.jpg 53,199,341,388,1 197,217,418,356,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005928.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005933.jpg 183,94,364,144,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005939.jpg 1,323,46,433,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005954.jpg 389,214,452,328,8 1,203,57,297,8 419,269,500,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005964.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005980.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_005987.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006014.jpg 199,175,283,194,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006036.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006052.jpg 157,1,461,137,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006072.jpg 96,1,328,487,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006085.jpg 1,91,485,241,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006121.jpg 73,170,252,258,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006128.jpg 1,52,343,408,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006179.jpg 171,110,268,341,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006188.jpg 25,133,399,347,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006207.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006272.jpg 1,165,277,360,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006276.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006345.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006390.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006409.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006470.jpg 83,13,427,347,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006490.jpg 100,58,302,332,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006502.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006540.jpg 176,112,491,208,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006624.jpg 172,313,318,470,8 144,329,193,403,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006684.jpg 1,96,500,378,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006705.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006797.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006831.jpg 184,19,488,256,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006855.jpg 122,239,198,389,1 218,248,303,372,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006857.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006903.jpg 257,1,493,264,3 168,160,266,197,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006920.jpg 65,94,427,181,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006948.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_006960.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007006.jpg 18,19,335,489,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007039.jpg 33,39,462,327,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007042.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007048.jpg 182,257,269,427,8 178,249,251,395,8 99,257,183,428,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007061.jpg 120,65,327,320,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007081.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007091.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007101.jpg 107,1,457,243,3 453,17,491,29,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007129.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007130.jpg 1,1,500,357,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007138.jpg 1,11,73,52,6 29,1,138,46,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007237.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007245.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007254.jpg 4,43,375,471,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007281.jpg 298,136,406,278,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007339.jpg 41,1,275,240,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007363.jpg 93,105,349,323,7 1,1,500,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007394.jpg 6,1,186,500,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007404.jpg 34,137,178,284,7 172,161,367,276,7 143,66,329,266,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007424.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007444.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007548.jpg 45,139,345,373,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007585.jpg 75,153,102,236,4 2,225,37,328,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007594.jpg 87,187,183,334,2 386,143,450,260,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007597.jpg 72,325,297,358,3 78,401,357,452,3 238,377,288,394,3 196,214,268,232,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007604.jpg 1,25,333,494,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007618.jpg 65,91,437,206,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007698.jpg 189,318,305,367,6 1,326,112,364,6 135,324,193,361,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007701.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007730.jpg 78,145,253,263,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007755.jpg 100,79,223,263,3 310,102,372,254,3 38,109,103,255,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007757.jpg 16,72,422,333,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007758.jpg 46,145,220,205,0 264,136,465,206,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007819.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007827.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007828.jpg 196,247,316,377,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007841.jpg 1,81,62,124,3 1,120,448,336,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007855.jpg 16,1,446,356,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007858.jpg 78,8,225,498,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007864.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007904.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007913.jpg 55,138,222,232,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007935.jpg 158,138,354,241,1 1,136,47,208,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007940.jpg 22,52,480,368,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007947.jpg 1,1,463,331,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007954.jpg 398,93,456,229,4 92,1,228,361,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007966.jpg 166,205,189,292,4 267,116,289,163,4 1,134,94,236,3 72,124,107,148,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007973.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007987.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_007997.jpg 104,104,276,214,5 1,184,64,224,6 475,28,500,56,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008025.jpg 41,59,296,156,0 302,112,436,164,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008080.jpg 56,235,486,440,1 1,70,424,191,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008086.jpg 111,234,373,325,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008098.jpg 37,131,213,306,8 275,141,420,316,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008121.jpg 1,191,302,500,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008148.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008203.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008217.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008342.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008362.jpg 378,232,466,375,8 199,246,215,284,4 180,235,196,264,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008377.jpg 80,44,325,275,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008380.jpg 166,182,234,362,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008382.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008392.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008434.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008435.jpg 76,25,214,162,2 335,160,470,273,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008439.jpg 15,208,138,308,8 244,200,312,314,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008474.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008488.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008500.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008578.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008617.jpg 29,73,438,368,9 79,115,369,368,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008618.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008619.jpg 261,199,500,333,1 121,244,254,333,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008662.jpg 34,29,92,56,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008695.jpg 267,100,391,210,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008726.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008744.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008753.jpg 80,1,489,312,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2008_008758.jpg 216,218,284,311,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000010.jpg 72,205,164,286,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000012.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000015.jpg 96,174,203,345,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000021.jpg 39,152,215,308,6 216,172,311,279,6 1,153,47,244,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000022.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000026.jpg 115,117,383,362,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000027.jpg 449,172,484,189,6 441,180,488,230,6 15,64,451,292,5 1,141,19,316,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000040.jpg 102,16,433,274,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000051.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000068.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000103.jpg 152,87,275,457,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000151.jpg 231,189,333,248,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000158.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000165.jpg 139,139,262,218,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000171.jpg 293,323,315,401,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000197.jpg 418,155,465,171,1 376,162,431,183,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000203.jpg 221,105,340,245,5 354,197,407,236,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000209.jpg 115,209,315,475,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000233.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000237.jpg 207,202,471,375,1 85,174,137,272,1 131,159,157,228,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000284.jpg 60,30,249,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000300.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000312.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000327.jpg 1,1,500,319,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000367.jpg 27,181,71,224,0 12,128,479,276,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000389.jpg 350,30,421,66,2 233,58,303,111,2 134,60,208,96,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000390.jpg 112,7,500,285,6 27,132,123,182,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000397.jpg 172,207,446,290,6 41,92,465,227,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000402.jpg 3,1,500,237,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000422.jpg 337,228,408,331,8 247,225,296,309,8 1,231,29,303,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000446.jpg 44,39,271,327,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000463.jpg 304,82,352,252,4 303,68,344,149,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000483.jpg 47,8,422,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000503.jpg 126,112,235,265,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000512.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000568.jpg 24,44,471,227,5 471,139,500,153,6 470,129,495,145,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000585.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000595.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000617.jpg 81,1,500,372,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000642.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000664.jpg 175,71,307,373,2 32,147,183,492,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000704.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000705.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000720.jpg 94,87,271,159,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000744.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000745.jpg 1,1,500,280,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000779.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000782.jpg 18,66,321,399,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000840.jpg 149,113,226,387,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000848.jpg 172,137,209,249,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000887.jpg 13,37,500,301,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000896.jpg 298,121,313,160,1 117,166,175,286,1 173,182,325,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000931.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000935.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000938.jpg 78,82,317,318,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000953.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_000971.jpg 32,170,219,247,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001007.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001038.jpg 79,75,318,434,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001094.jpg 1,1,500,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001103.jpg 272,276,310,375,4 371,226,401,328,4 486,272,500,375,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001121.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001133.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001155.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001181.jpg 238,293,255,333,4 415,225,500,328,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001206.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001212.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001224.jpg 160,216,393,282,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001283.jpg 220,58,303,256,2 294,118,359,179,2 187,73,249,125,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001349.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001361.jpg 32,38,497,293,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001363.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001388.jpg 250,164,328,217,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001414.jpg 391,96,442,262,4 99,90,141,214,4 125,81,152,176,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001419.jpg 150,16,384,333,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001433.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001453.jpg 318,106,500,253,2 146,118,325,316,2 38,41,173,261,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001474.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001476.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001490.jpg 4,56,418,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001505.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001536.jpg 61,55,397,261,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001539.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001558.jpg 96,1,311,500,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001570.jpg 90,96,358,423,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001581.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001645.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001648.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001687.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001705.jpg 179,178,281,324,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001718.jpg 40,310,264,500,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001749.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001784.jpg 20,1,375,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001799.jpg 376,234,456,375,4 272,238,353,375,4 255,238,300,375,4 181,180,221,375,4 133,234,210,375,4 9,227,127,375,4 1,193,29,324,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001828.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001854.jpg 83,20,386,310,5 1,68,92,275,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001906.jpg 141,80,415,300,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001931.jpg 1,1,333,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001933.jpg 203,69,500,375,7 1,1,238,213,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001960.jpg 2,31,500,375,8 304,8,331,66,4 329,5,348,68,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_001988.jpg 21,120,474,299,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002056.jpg 140,81,378,446,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002120.jpg 1,1,500,332,6 431,1,500,99,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002144.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002180.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002202.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002203.jpg 113,134,320,264,5 102,181,112,229,5 26,172,100,237,5 372,213,395,243,1 476,204,497,221,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002258.jpg 20,102,482,214,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002299.jpg 50,51,500,285,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002324.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002348.jpg 479,48,500,231,5 113,95,453,191,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002349.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002370.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002376.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002377.jpg 366,116,380,133,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002381.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002393.jpg 219,87,345,136,0 303,5,329,19,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002404.jpg 276,30,396,148,1 297,295,393,333,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002441.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002571.jpg 228,29,329,195,8 352,1,478,205,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002573.jpg 74,71,91,112,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002586.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002599.jpg 48,116,500,257,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002616.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002620.jpg 185,147,249,324,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002632.jpg 142,52,417,254,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002645.jpg 1,21,338,500,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002663.jpg 182,270,357,375,8 340,221,459,375,8 377,182,475,375,8 104,142,176,214,8 1,152,53,242,8 301,144,376,204,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002703.jpg 202,210,222,242,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002704.jpg 1,27,380,333,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002705.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002727.jpg 354,192,462,241,3 278,187,416,237,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002770.jpg 1,9,500,339,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002800.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002808.jpg 2,16,333,457,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002816.jpg 4,314,174,500,8 159,301,305,500,8 268,308,375,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002817.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002882.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002902.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_002982.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003019.jpg 111,14,493,377,3 9,159,164,372,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003063.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003064.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003089.jpg 58,60,469,314,9 364,43,443,93,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003114.jpg 3,1,176,500,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003115.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003125.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003129.jpg 110,58,429,318,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003130.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003143.jpg 1,12,419,482,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003147.jpg 167,73,499,203,0 101,78,293,197,0 43,81,208,191,0 1,87,162,186,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003214.jpg 290,242,371,280,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003247.jpg 373,189,492,209,3 181,129,367,209,3 275,103,352,148,3 20,156,200,214,3 17,137,58,149,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003257.jpg 17,149,64,223,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003276.jpg 56,157,327,281,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003294.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003309.jpg 3,24,500,314,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003340.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003385.jpg 1,11,490,500,5 316,136,350,224,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003487.jpg 189,65,333,184,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003497.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003507.jpg 252,308,334,468,8 136,308,249,500,8 118,340,281,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003545.jpg 356,274,500,375,8 136,228,303,375,8 156,186,237,222,8 247,177,311,216,8 425,185,500,230,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003583.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003646.jpg 274,220,358,338,1 335,337,500,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003652.jpg 231,133,459,281,3 193,225,232,243,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003655.jpg 31,91,327,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003711.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003714.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003725.jpg 130,262,266,293,6 241,255,387,290,6 368,240,469,289,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003726.jpg 1,282,13,316,8 7,280,30,315,8 26,281,46,314,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003773.jpg 151,4,500,334,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003795.jpg 156,222,179,304,4 386,247,409,345,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003808.jpg 267,227,305,303,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003821.jpg 223,286,246,308,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003849.jpg 355,191,498,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003860.jpg 1,1,500,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003870.jpg 152,120,284,474,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003896.jpg 130,216,242,296,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003942.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003974.jpg 33,99,456,281,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003982.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_003995.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004032.jpg 91,81,131,145,8 123,82,136,149,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004050.jpg 388,357,413,375,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004076.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004105.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004124.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004125.jpg 42,143,307,263,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004150.jpg 223,182,500,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004168.jpg 346,121,368,145,8 368,120,390,147,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004169.jpg 39,188,115,340,9 182,115,476,356,9 384,93,500,306,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004191.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004233.jpg 148,49,325,349,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004255.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004308.jpg 47,34,495,252,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004341.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004382.jpg 50,1,264,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004404.jpg 238,369,333,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004410.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004417.jpg 222,187,411,304,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004419.jpg 74,232,370,375,8 105,164,173,215,8 49,192,106,293,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004429.jpg 1,259,197,375,8 1,211,187,375,8 349,160,384,193,8 433,173,500,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004436.jpg 1,85,491,374,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004445.jpg 1,1,232,356,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004446.jpg 403,9,500,42,0 409,33,500,75,0 146,12,418,96,0 3,102,500,252,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004477.jpg 133,24,330,333,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004501.jpg 179,162,317,307,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004508.jpg 270,186,338,314,1 200,163,256,280,1 183,165,208,248,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004519.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004527.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004537.jpg 35,297,171,490,8 148,264,167,311,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004539.jpg 75,128,297,436,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004588.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004655.jpg 1,1,500,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004688.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004716.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004730.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004766.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004804.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004822.jpg 1,1,144,89,6 166,1,500,70,6 95,141,448,358,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004823.jpg 110,211,236,343,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004889.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004890.jpg 403,284,500,375,8 330,283,383,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004988.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_004999.jpg 1,20,265,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005005.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005037.jpg 221,61,440,242,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005044.jpg 82,53,262,361,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005068.jpg 100,121,410,291,9 244,78,312,152,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005080.jpg 287,164,370,278,8 1,163,61,217,8 98,231,232,375,8 80,207,185,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005098.jpg 118,1,454,188,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005158.jpg 90,91,260,404,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005172.jpg 112,54,500,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005204.jpg 1,133,332,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005215.jpg 371,206,426,219,6 35,78,464,219,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005218.jpg 57,86,453,260,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005279.jpg 215,149,362,285,5 425,247,500,278,6 6,126,202,300,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2009_005308.jpg 177,218,207,321,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000003.jpg 17,52,455,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000018.jpg 1,154,132,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000053.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000055.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000063.jpg 214,70,500,299,9 42,60,297,265,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000074.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000082.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000148.jpg 80,87,355,219,5 422,133,500,176,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000152.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000170.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000172.jpg 336,103,420,263,7 153,128,287,217,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000174.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000175.jpg 133,1,500,333,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000196.jpg 25,1,500,335,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000245.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000335.jpg 243,144,305,176,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000372.jpg 306,133,432,205,6 18,126,432,303,6 301,108,432,157,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000386.jpg 391,122,454,272,8 326,137,441,267,8 327,132,426,180,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000399.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000431.jpg 3,243,146,490,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000435.jpg 164,205,311,363,8 379,183,500,307,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000439.jpg 171,122,419,361,7 203,1,456,135,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000447.jpg 89,36,188,179,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000466.jpg 15,92,382,235,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000469.jpg 1,28,490,370,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000493.jpg 279,156,357,214,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000500.jpg 1,150,429,286,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000506.jpg 1,1,365,438,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000519.jpg 191,174,343,398,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000549.jpg 181,110,391,205,0 232,229,322,265,0 57,75,172,112,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000564.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000608.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000632.jpg 142,83,218,207,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000641.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000665.jpg 46,128,475,304,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000679.jpg 79,113,161,169,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000688.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000729.jpg 279,163,359,233,3 245,222,287,247,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000748.jpg 55,38,391,272,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000805.jpg 74,105,255,375,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000806.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000828.jpg 179,113,357,353,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000857.jpg 26,79,321,480,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000928.jpg 204,175,333,225,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000931.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000952.jpg 46,57,479,309,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000954.jpg 105,203,196,239,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_000986.jpg 275,78,454,138,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001008.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001017.jpg 114,130,342,306,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001032.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001201.jpg 212,102,332,323,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001210.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001237.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001240.jpg 1,1,500,407,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001242.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001261.jpg 170,268,259,368,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001312.jpg 184,134,284,223,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001360.jpg 5,81,253,183,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001376.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001430.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001449.jpg 2,119,391,354,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001497.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001535.jpg 367,97,500,251,8 307,116,490,303,8 53,274,126,375,4 351,82,430,120,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001536.jpg 309,268,490,322,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001551.jpg 148,113,308,156,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001583.jpg 21,85,482,212,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001587.jpg 97,3,397,334,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001590.jpg 17,18,481,292,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001592.jpg 16,10,489,303,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001594.jpg 138,184,203,216,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001602.jpg 158,74,347,323,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001607.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001630.jpg 89,43,299,295,5 371,126,431,211,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001640.jpg 1,64,210,246,5 92,84,368,237,5 358,99,470,230,5 298,121,500,220,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001646.jpg 269,49,496,265,5 142,110,258,230,5 11,77,144,244,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001668.jpg 66,176,445,301,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001689.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001691.jpg 145,97,174,200,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001717.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001770.jpg 113,182,155,197,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001771.jpg 45,95,375,224,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001785.jpg 314,132,342,204,4 248,184,294,260,4 228,207,253,251,4 46,1,61,32,4 32,1,47,32,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001807.jpg 83,18,284,453,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001814.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001819.jpg 362,79,395,248,4 278,85,317,249,4 193,67,225,247,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001841.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001851.jpg 37,211,131,355,8 218,199,309,337,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001856.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001862.jpg 202,95,456,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001863.jpg 1,85,340,433,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001885.jpg 116,1,437,426,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001896.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001919.jpg 204,30,350,192,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001924.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001987.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_001988.jpg 67,1,340,235,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002006.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002044.jpg 38,30,472,328,6 399,78,500,243,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002055.jpg 37,120,375,500,1 229,265,286,337,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002096.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002102.jpg 105,45,391,276,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002132.jpg 36,76,487,285,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002168.jpg 158,304,186,348,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002207.jpg 1,33,491,226,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002218.jpg 1,82,357,500,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002219.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002223.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002251.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002254.jpg 1,13,312,336,9 321,89,363,121,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002263.jpg 78,127,500,339,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002269.jpg 16,246,92,375,4 168,273,214,375,4 417,242,439,322,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002276.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002312.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002315.jpg 34,1,441,318,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002319.jpg 26,150,239,385,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002320.jpg 151,71,318,296,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002336.jpg 172,144,375,496,8 1,156,157,412,8 195,103,323,357,8 24,138,195,340,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002349.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002363.jpg 65,74,405,358,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002366.jpg 183,331,309,453,8 89,308,149,349,8 1,326,123,500,8 143,354,303,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002372.jpg 216,126,272,152,9 255,124,308,148,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002392.jpg 2,18,500,483,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002393.jpg 117,109,251,310,3 342,150,445,313,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002410.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002418.jpg 41,302,152,495,8 183,312,281,500,8 180,285,237,325,8 30,274,90,317,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002456.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002458.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002484.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002513.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002562.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002579.jpg 72,161,292,247,0 56,212,109,232,0 389,259,497,320,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002597.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002618.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002686.jpg 1,198,130,372,8 297,215,486,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002714.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002729.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002740.jpg 1,22,289,499,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002815.jpg 106,375,244,496,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002834.jpg 58,18,288,480,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002865.jpg 385,138,500,210,6 409,171,500,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002924.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002937.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002947.jpg 128,179,375,254,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_002948.jpg 1,133,194,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003024.jpg 79,1,407,271,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003025.jpg 24,75,496,198,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003050.jpg 1,1,395,374,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003084.jpg 355,207,395,266,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003156.jpg 342,217,419,233,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003170.jpg 192,282,399,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003206.jpg 1,50,154,155,6 18,60,488,348,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003212.jpg 111,225,347,268,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003287.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003331.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003342.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003371.jpg 1,52,468,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003372.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003374.jpg 126,106,143,152,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003375.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003380.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003383.jpg 234,1,499,311,9 58,1,314,294,9 1,5,159,266,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003411.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003435.jpg 1,1,499,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003491.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003512.jpg 103,140,496,250,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003535.jpg 1,1,500,375,8 165,1,500,285,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003540.jpg 437,196,470,245,8 452,196,495,264,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003585.jpg 4,39,151,102,6 139,58,279,107,6 340,229,500,301,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003603.jpg 38,344,227,500,1 145,414,176,450,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003604.jpg 74,1,375,498,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003605.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003648.jpg 196,81,378,293,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003670.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003734.jpg 1,1,500,375,6 48,121,132,155,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003736.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003742.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003791.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003799.jpg 111,13,442,365,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003820.jpg 95,110,200,172,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003865.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003928.jpg 1,65,448,288,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003929.jpg 200,100,321,190,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003974.jpg 52,1,489,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_003987.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004011.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004021.jpg 1,39,192,200,6 137,61,315,124,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004123.jpg 111,68,174,143,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004129.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004137.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004160.jpg 1,112,101,177,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004178.jpg 177,62,216,90,9 247,66,298,102,9 292,68,333,103,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004192.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004211.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004224.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004248.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004264.jpg 191,174,248,332,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004312.jpg 2,121,497,274,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004318.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004351.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004369.jpg 1,1,500,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004439.jpg 378,300,457,342,1 411,272,467,315,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004445.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004447.jpg 39,344,74,458,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004450.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004460.jpg 66,254,115,370,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004467.jpg 230,176,324,269,7 330,88,451,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004491.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004509.jpg 319,125,409,220,8 247,123,329,220,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004540.jpg 97,115,323,252,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004559.jpg 1,28,450,323,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004596.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004624.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004634.jpg 50,20,425,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004642.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004657.jpg 200,101,352,195,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004660.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004728.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004757.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004777.jpg 201,144,260,199,2 251,144,298,193,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004779.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004783.jpg 402,152,500,306,8 1,179,115,347,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004789.jpg 78,69,357,327,9 110,72,162,94,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004804.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004830.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004836.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004894.jpg 103,45,401,339,1 339,17,369,60,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004946.jpg 37,165,331,423,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004966.jpg 327,187,406,216,6 221,180,267,194,6 483,199,500,227,6 182,99,318,150,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004971.jpg 102,25,477,318,5 3,155,103,252,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_004992.jpg 161,249,371,490,8 236,55,375,324,8 80,32,224,300,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005017.jpg 1,1,374,500,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005018.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005033.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005096.jpg 1,53,321,290,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005108.jpg 1,41,414,325,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005129.jpg 167,173,227,313,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005182.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005183.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005198.jpg 1,194,500,333,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005222.jpg 323,149,462,362,8 120,132,223,270,8 284,209,346,287,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005223.jpg 288,132,450,267,9 187,143,295,269,9 61,138,204,267,9 27,147,97,260,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005238.jpg 1,49,395,472,8 102,202,293,278,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005253.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005258.jpg 1,1,371,375,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005266.jpg 116,29,500,374,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005276.jpg 188,56,249,230,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005299.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005305.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005309.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005332.jpg 1,1,121,267,3 100,1,372,415,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005365.jpg 78,141,322,212,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005391.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005398.jpg 313,153,357,186,8 250,155,297,186,8 173,163,243,238,8 397,158,464,284,8 280,177,340,313,8 330,173,420,312,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005421.jpg 21,157,201,339,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005432.jpg 36,71,487,319,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005467.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005468.jpg 154,158,348,287,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005496.jpg 112,57,327,338,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005512.jpg 288,67,399,219,8 52,229,121,350,4 60,158,92,233,4 242,118,276,210,4 274,232,306,311,4 1,75,25,159,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005522.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005595.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005606.jpg 181,169,464,374,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005643.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005646.jpg 117,178,162,189,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005657.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005709.jpg 62,168,253,311,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005719.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005725.jpg 168,100,423,376,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005754.jpg 72,244,262,500,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005768.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005791.jpg 221,65,377,243,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005796.jpg 1,74,270,375,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005805.jpg 51,27,375,163,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005816.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005820.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005830.jpg 355,327,500,498,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005847.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005860.jpg 124,100,457,268,6 419,118,498,212,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005865.jpg 439,9,492,142,4 459,22,500,166,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005882.jpg 353,168,500,357,8 1,171,156,369,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005883.jpg 104,59,230,443,4 247,126,333,312,4 290,1,320,110,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005914.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_005967.jpg 227,214,444,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_006009.jpg 1,1,179,128,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2010_006041.jpg 78,156,256,344,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000027.jpg 224,306,287,413,4 142,145,238,402,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000052.jpg 411,235,480,249,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000077.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000086.jpg 62,124,446,293,6 11,57,146,105,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000098.jpg 333,109,390,270,1 374,118,442,277,1 54,193,213,375,8 61,139,125,201,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000109.jpg 40,130,296,282,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000114.jpg 80,342,336,400,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000122.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000181.jpg 119,24,391,296,5 1,139,124,234,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000213.jpg 11,16,249,382,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000216.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000224.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000258.jpg 103,35,425,281,5 1,191,118,268,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000285.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000291.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000338.jpg 94,263,224,375,8 126,238,183,344,8 1,277,140,375,8 1,241,32,280,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000391.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000408.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000461.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000509.jpg 11,122,465,337,6 244,74,376,160,6 2,91,67,163,6 374,77,448,122,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000518.jpg 345,140,455,249,8 310,108,343,149,8 345,114,398,162,8 235,119,285,151,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000519.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000541.jpg 86,75,399,269,5 401,54,500,289,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000556.jpg 164,35,406,246,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000565.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000573.jpg 189,209,359,375,8 320,148,461,357,8 54,206,193,375,8 146,156,238,180,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000578.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000594.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000608.jpg 1,296,152,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000703.jpg 122,23,342,321,5 1,4,103,331,5 311,38,500,303,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000771.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000784.jpg 17,14,486,337,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000804.jpg 2,59,339,500,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000828.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000837.jpg 195,1,335,44,8 1,77,57,196,8 45,318,347,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000843.jpg 258,239,331,297,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000845.jpg 2,19,332,500,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000853.jpg 1,280,16,340,6 12,300,34,326,6 58,296,99,331,6 135,298,175,332,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000859.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000874.jpg 7,87,494,198,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000897.jpg 355,206,499,301,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000932.jpg 365,231,488,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_000965.jpg 119,238,231,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001020.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001029.jpg 11,315,146,395,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001032.jpg 359,166,414,238,8 414,156,499,237,8 288,162,348,231,8 232,164,277,223,8 255,165,296,191,8 252,165,290,201,8 185,159,224,195,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001036.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001054.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001055.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001066.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001152.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001167.jpg 388,232,437,300,8 247,231,306,303,8 140,242,242,373,8 130,281,239,373,8 263,328,367,373,8 31,219,114,317,8 179,200,238,274,8 41,191,83,243,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001169.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001277.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001284.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001292.jpg 108,49,500,349,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001310.jpg 176,114,361,263,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001360.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001382.jpg 446,96,499,342,4 216,1,307,288,4 336,142,424,285,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001412.jpg 125,113,225,258,8 308,128,402,248,8 330,102,442,293,8 413,107,500,276,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001432.jpg 49,65,487,375,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001447.jpg 1,57,237,375,8 205,53,500,368,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001456.jpg 223,306,305,456,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001501.jpg 264,197,440,298,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001519.jpg 108,53,468,325,5
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001542.jpg 302,97,438,144,6 9,100,487,265,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001560.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001612.jpg 181,145,299,375,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001618.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001663.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001693.jpg 140,90,185,126,3 97,99,132,116,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001698.jpg 215,175,249,200,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001720.jpg 188,188,370,333,4 260,53,435,333,4 334,1,486,151,4 136,1,283,332,4 11,103,190,333,4 32,194,175,333,4 1,1,101,238,4 74,1,170,119,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001727.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001779.jpg 37,97,357,414,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001842.jpg 1,248,126,375,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001872.jpg 88,173,215,213,0 379,200,439,214,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001896.jpg 232,174,388,326,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001901.jpg 1,64,500,368,3 296,164,470,234,3 90,198,170,245,3 1,330,189,375,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001902.jpg 70,58,231,414,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001919.jpg 442,149,493,179,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001927.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001949.jpg 154,60,377,316,5 1,161,144,249,5 1,216,65,249,6 1,237,35,264,1 372,208,409,258,6 402,207,446,243,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001951.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001961.jpg 5,247,491,375,3 96,35,176,78,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001971.jpg 1,91,337,409,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_001984.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002016.jpg 210,78,326,347,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002055.jpg 66,94,437,460,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002105.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002108.jpg 162,189,214,266,8 198,186,227,253,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002147.jpg 68,77,342,439,7
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002150.jpg 259,291,377,372,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002159.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002167.jpg 427,140,447,175,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002186.jpg 229,59,428,183,7 464,100,486,163,4 476,37,492,91,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002218.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002234.jpg 15,67,500,333,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002245.jpg 222,96,268,178,2 337,127,419,335,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002253.jpg 1,29,494,374,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002284.jpg 12,146,497,266,0 47,150,183,201,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002357.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002359.jpg 162,199,219,242,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002387.jpg 25,127,346,246,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002418.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002436.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002455.jpg 45,216,187,486,1
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002505.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002612.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002640.jpg 238,165,251,204,4 350,244,431,333,8 46,218,153,333,8 1,177,62,329,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002719.jpg 233,174,355,245,9 157,169,236,258,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002740.jpg 306,138,380,165,3 341,212,472,248,3 202,107,247,122,3 422,34,469,100,3 67,100,95,117,3 344,85,373,104,3 35,90,60,119,3 183,100,215,116,3 274,206,427,237,3 331,254,438,315,3 192,236,342,280,3 85,234,336,301,3 1,216,158,281,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002751.jpg 1,1,499,271,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002767.jpg 180,111,275,162,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002770.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002805.jpg 176,231,269,336,8 157,252,294,450,8 69,228,154,334,8 27,246,162,443,8 298,240,374,315,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002823.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002834.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002864.jpg 1,37,496,315,9
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002908.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002930.jpg 34,15,488,195,0
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002943.jpg 103,110,393,220,3
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002953.jpg 14,137,130,268,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002978.jpg 2,185,104,236,6 19,196,103,237,6
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002985.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_002994.jpg 297,193,365,309,8 125,183,159,263,8 148,193,207,304,8 192,205,256,314,8 252,204,314,317,8 215,189,259,207,8 260,189,304,206,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_003005.jpg 30,1,312,340,8
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_003044.jpg 1,111,116,298,8 128,88,161,160,8 135,94,147,124,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_003124.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_003171.jpg 137,76,360,220,2
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_003187.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_003207.jpg
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_003254.jpg 130,259,148,305,4
+/home/featurize/work/YOLOv7/VOCdevkit/VOC2007/JPEGImages/2011_003269.jpg 19,347,309,461,6
